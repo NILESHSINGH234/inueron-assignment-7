@@ -18,7 +18,7 @@ In this project i have created a Digital Marketing homepage from scratch. And i 
 
 ### My Project is looking like :
 
-![Web Site Image](./assets/screencapture-digital-marketing-homepage-netlify-app-2022-07-31-19_13_37.png)
+![Web Site Image](./Assets/screencapture-digital-marketing-homepage-netlify-app-2022-07-31-19_13_37.png)
 
 ### You can Check it Live on Below Link :
 
